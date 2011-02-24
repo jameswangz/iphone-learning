@@ -1,0 +1,145 @@
+// !$*UTF8*$!
+{
+	1A79CA6F122921070000E7E9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ControlFunAppDelegate.m */;
+	};
+	1A79CAB412297C260000E7E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ControlFunAppDelegate.m */;
+		name = "ControlFunAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 0;
+	};
+	1ABD33E8114CF403003481E0 /* ControlFun */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ControlFun;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1ABD33F1114CF439003481E0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1ABD33F2114CF439003481E0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1ABD3404114CFAF7003481E0 /* blueButton.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 103}, {1262, 670}}";
+		};
+	};
+	1ABD340B114CFBAD003481E0 /* whiteButton.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 103}, {1262, 670}}";
+		};
+	};
+	1D3623240D0F684500981E51 /* ControlFunAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1206, 588}}";
+			sepNavSelRange = "{493, 0}";
+			sepNavVisRange = "{0, 495}";
+			sepNavWindowFrame = "{{15, 62}, {1265, 716}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ControlFunAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 544}}";
+			sepNavSelRange = "{308, 0}";
+			sepNavVisRange = "{0, 531}";
+			sepNavWindowFrame = "{{15, 62}, {1265, 716}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ControlFun */ = {
+		activeExec = 0;
+		executables = (
+			1ABD33E8114CF403003481E0 /* ControlFun */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* ControlFunViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1203, 2528}}";
+			sepNavSelRange = "{1524, 0}";
+			sepNavVisRange = "{947, 1263}";
+			sepNavWindowFrame = "{{18, 62}, {1262, 670}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1ABD33E8114CF403003481E0 /* ControlFun */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ControlFun */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ControlFun */,
+		);
+		codeSenseManager = 1ABD33F2114CF439003481E0 /* Code sense */;
+		executables = (
+			1ABD33E8114CF403003481E0 /* ControlFun */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					639,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304685316;
+			PBXWorkspaceStateSaveDate = 304685316;
+		};
+		perUserProjectItems = {
+			1A79CA6F122921070000E7E9 /* PBXBookmark */ = 1A79CA6F122921070000E7E9 /* PBXBookmark */;
+			1A79CAB412297C260000E7E9 /* PBXTextBookmark */ = 1A79CAB412297C260000E7E9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1ABD33F1114CF439003481E0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

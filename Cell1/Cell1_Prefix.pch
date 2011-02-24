@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Cell1' target in the 'Cell1' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

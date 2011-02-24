@@ -1,0 +1,159 @@
+// !$*UTF8*$!
+{
+	1A2CA357114FFA0C000E5F1F /* Swap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Swap;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	1A2CA36D114FFA24000E5F1F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	1A2CA36E114FFA24000E5F1F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1A2CA375115005D2000E5F1F /* SwapViewController.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* SwapViewController.m */;
+		functionName = "-willAnimateRotationToInterfaceOritentation:duration:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = Swap;
+		modificationTime = 290457102.863165;
+		state = 1;
+	};
+	1A2CA378115005DF000E5F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: expected ';' before '}' token";
+		fRef = 28D7ACF70DDB3853001CB0EB /* SwapViewController.m */;
+		rLen = 1;
+		rLoc = 24;
+		rType = 1;
+	};
+	1A2CA38A11500632000E5F1F /* SwapViewController.m:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* SwapViewController.m */;
+		functionName = "-buttonPressed:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 47;
+		location = Swap;
+		modificationTime = 290457138.663793;
+		state = 2;
+	};
+	1A2CA39211500657000E5F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SwapViewController.m */;
+		name = "SwapViewController.m: 25";
+		rLen = 3;
+		rLoc = 788;
+		rType = 0;
+		vrLen = 1027;
+		vrLoc = 348;
+	};
+	1D6058900D05DD3D006BFB54 /* Swap */ = {
+		activeExec = 0;
+		executables = (
+			1A2CA357114FFA0C000E5F1F /* Swap */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SwapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1203, 684}}";
+			sepNavSelRange = "{375, 0}";
+			sepNavVisRange = "{78, 800}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SwapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 1520}}";
+			sepNavSelRange = "{1659, 0}";
+			sepNavVisRange = "{1479, 448}";
+			sepNavWindowFrame = "{{193, 59}, {1262, 670}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1A2CA357114FFA0C000E5F1F /* Swap */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Swap */;
+		breakpoints = (
+			1A2CA375115005D2000E5F1F /* SwapViewController.m:20 */,
+			1A2CA38A11500632000E5F1F /* SwapViewController.m:47 */,
+		);
+		codeSenseManager = 1A2CA36E114FFA24000E5F1F /* Code sense */;
+		executables = (
+			1A2CA357114FFA0C000E5F1F /* Swap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					587,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 290454028;
+			PBXWorkspaceStateSaveDate = 290454028;
+		};
+		perUserProjectItems = {
+			1A2CA378115005DF000E5F1F /* PBXTextBookmark */ = 1A2CA378115005DF000E5F1F /* PBXTextBookmark */;
+			1A2CA39211500657000E5F1F /* PBXTextBookmark */ = 1A2CA39211500657000E5F1F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1A2CA36D114FFA24000E5F1F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

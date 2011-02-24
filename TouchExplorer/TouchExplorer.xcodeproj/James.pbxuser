@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	1A1262D91313C49A005EB4EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TouchExplorerViewController.m */;
+		name = "TouchExplorerViewController.m: 5";
+		rLen = 0;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	1A2DE8DF131270B2009600BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TouchExplorerViewController.m */;
+		name = "TouchExplorerViewController.m: 11";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	1AE43F42131266B60061F3E4 /* TouchExplorer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TouchExplorer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1AE43F5A131266C10061F3E4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1AE43F5B131266C10061F3E4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D3623250D0F684500981E51 /* TouchExplorerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1408}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1239}";
+			sepNavWindowFrame = "{{15, 59}, {1265, 716}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TouchExplorer */ = {
+		activeExec = 0;
+		executables = (
+			1AE43F42131266B60061F3E4 /* TouchExplorer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TouchExplorerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1206, 588}}";
+			sepNavSelRange = "{469, 0}";
+			sepNavVisRange = "{0, 550}";
+			sepNavWindowFrame = "{{15, 62}, {1265, 716}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TouchExplorerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {912, 1184}}";
+			sepNavSelRange = "{92, 0}";
+			sepNavVisRange = "{0, 571}";
+			sepNavWindowFrame = "{{15, 62}, {1265, 716}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1AE43F42131266B60061F3E4 /* TouchExplorer */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TouchExplorer */;
+		codeSenseManager = 1AE43F5B131266C10061F3E4 /* Code sense */;
+		executables = (
+			1AE43F42131266B60061F3E4 /* TouchExplorer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					734,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320051979;
+			PBXWorkspaceStateSaveDate = 320051979;
+		};
+		perUserProjectItems = {
+			1A1262D91313C49A005EB4EA /* PBXTextBookmark */ = 1A1262D91313C49A005EB4EA /* PBXTextBookmark */;
+			1A2DE8DF131270B2009600BC /* PBXTextBookmark */ = 1A2DE8DF131270B2009600BC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1AE43F5A131266C10061F3E4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

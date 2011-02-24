@@ -1,0 +1,264 @@
+// !$*UTF8*$!
+{
+	09074CD21175F5870064DF24 /* SecondLevelViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 565}}";
+			sepNavSelRange = "{222, 21}";
+			sepNavVisRange = "{0, 333}";
+			sepNavWindowFrame = "{{15, 62}, {1223, 716}}";
+		};
+	};
+	09074CD31175F5870064DF24 /* SecondLevelViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 565}}";
+			sepNavSelRange = "{187, 42}";
+			sepNavVisRange = "{0, 257}";
+			sepNavWindowFrame = "{{15, 62}, {1223, 716}}";
+		};
+	};
+	09074CDB117604E10064DF24 /* DisclosureButtonController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 565}}";
+			sepNavSelRange = "{181, 25}";
+			sepNavVisRange = "{0, 429}";
+			sepNavWindowFrame = "{{15, 62}, {1223, 716}}";
+		};
+	};
+	09074CDC117604E10064DF24 /* DisclosureButtonController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1356, 1280}}";
+			sepNavSelRange = "{1255, 0}";
+			sepNavVisRange = "{0, 880}";
+			sepNavWindowFrame = "{{57, 62}, {1223, 716}}";
+		};
+	};
+	09074D02117607340064DF24 /* DisclosureDetailController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 565}}";
+			sepNavSelRange = "{530, 0}";
+			sepNavVisRange = "{0, 536}";
+			sepNavWindowFrame = "{{15, 62}, {1223, 716}}";
+		};
+	};
+	1AADC689117386A500BECA11 /* Nav */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nav;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1AADC692117386AD00BECA11 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1AADC693117386AD00BECA11 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1AADC6BC1173895500BECA11 /* FirstLevelViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 565}}";
+			sepNavSelRange = "{320, 0}";
+			sepNavVisRange = "{0, 320}";
+			sepNavWindowFrame = "{{15, 62}, {1223, 716}}";
+		};
+	};
+	1AADC6BD1173895500BECA11 /* FirstLevelViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 1136}}";
+			sepNavSelRange = "{2149, 20}";
+			sepNavVisRange = "{137, 1045}";
+			sepNavWindowFrame = "{{15, 62}, {1223, 716}}";
+		};
+	};
+	1AADC6C811738D7100BECA11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NavAppDelegate.h */;
+		name = "NavAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	1AADC6C911738D7100BECA11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1AADC6BC1173895500BECA11 /* FirstLevelViewController.h */;
+		name = "FirstLevelViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	1AE3615C11779CF5001243DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NavAppDelegate.m */;
+		name = "NavAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 0;
+	};
+	1AE3615D11779CF5001243DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NavAppDelegate.m */;
+		name = "NavAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 0;
+	};
+	1AE3616011779CF5001243DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 09074CDC117604E10064DF24 /* DisclosureButtonController.m */;
+		name = "DisclosureButtonController.m: 45";
+		rLen = 0;
+		rLoc = 1255;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 0;
+	};
+	1AF8B353117636C700FABB84 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 09074D1911760A330064DF24 /* detailEditIcon.png */;
+	};
+	1AF8B354117636C700FABB84 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 09074D1A11760A330064DF24 /* disclosureButtonControllerIcon.png */;
+	};
+	1AF8B355117636C700FABB84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 09074CD31175F5870064DF24 /* SecondLevelViewController.m */;
+		name = "SecondLevelViewController.m: 12";
+		rLen = 42;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	1AF8B356117636C700FABB84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 09074CDC117604E10064DF24 /* DisclosureButtonController.m */;
+		name = "DisclosureButtonController.m: 61";
+		rLen = 0;
+		rLoc = 1998;
+		rType = 0;
+		vrLen = 979;
+		vrLoc = 1594;
+	};
+	1AF8B35C117636C700FABB84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 09074CDC117604E10064DF24 /* DisclosureButtonController.m */;
+		name = "DisclosureButtonController.m: 45";
+		rLen = 0;
+		rLoc = 1255;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* NavAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 565}}";
+			sepNavSelRange = "{415, 0}";
+			sepNavVisRange = "{0, 423}";
+			sepNavWindowFrame = "{{15, 62}, {1223, 716}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NavAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 464}}";
+			sepNavSelRange = "{186, 0}";
+			sepNavVisRange = "{0, 486}";
+			sepNavWindowFrame = "{{15, 62}, {1223, 716}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Nav */ = {
+		activeExec = 0;
+		executables = (
+			1AADC689117386A500BECA11 /* Nav */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1AADC689117386A500BECA11 /* Nav */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Nav */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Nav */,
+		);
+		codeSenseManager = 1AADC693117386AD00BECA11 /* Code sense */;
+		executables = (
+			1AADC689117386A500BECA11 /* Nav */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					696,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 293051619;
+			PBXWorkspaceStateSaveDate = 293051619;
+		};
+		perUserProjectItems = {
+			1AADC6C811738D7100BECA11 /* PBXTextBookmark */ = 1AADC6C811738D7100BECA11 /* PBXTextBookmark */;
+			1AADC6C911738D7100BECA11 /* PBXTextBookmark */ = 1AADC6C911738D7100BECA11 /* PBXTextBookmark */;
+			1AE3615C11779CF5001243DD /* PBXTextBookmark */ = 1AE3615C11779CF5001243DD /* PBXTextBookmark */;
+			1AE3615D11779CF5001243DD /* PBXTextBookmark */ = 1AE3615D11779CF5001243DD /* PBXTextBookmark */;
+			1AE3616011779CF5001243DD /* PBXTextBookmark */ = 1AE3616011779CF5001243DD /* PBXTextBookmark */;
+			1AF8B353117636C700FABB84 /* PBXBookmark */ = 1AF8B353117636C700FABB84 /* PBXBookmark */;
+			1AF8B354117636C700FABB84 /* PBXBookmark */ = 1AF8B354117636C700FABB84 /* PBXBookmark */;
+			1AF8B355117636C700FABB84 /* PBXTextBookmark */ = 1AF8B355117636C700FABB84 /* PBXTextBookmark */;
+			1AF8B356117636C700FABB84 /* PBXTextBookmark */ = 1AF8B356117636C700FABB84 /* PBXTextBookmark */;
+			1AF8B35C117636C700FABB84 /* PBXTextBookmark */ = 1AF8B35C117636C700FABB84 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1AADC692117386AD00BECA11 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

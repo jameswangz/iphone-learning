@@ -1,0 +1,107 @@
+// !$*UTF8*$!
+{
+	09045FA5116B6FFE00E53295 /* Simple Table */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Simple Table";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	09045FBD116B700300E53295 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	09045FBE116B700300E53295 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D6058900D05DD3D006BFB54 /* Simple Table */ = {
+		activeExec = 0;
+		executables = (
+			09045FA5116B6FFE00E53295 /* Simple Table */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Simple_TableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1328, 963}}";
+			sepNavSelRange = "{239, 19}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Simple_TableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1328, 2163}}";
+			sepNavSelRange = "{2368, 0}";
+			sepNavVisRange = "{1540, 1541}";
+			sepNavWindowFrame = "{{15, 64}, {1387, 1114}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 09045FA5116B6FFE00E53295 /* Simple Table */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Simple Table */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Simple Table */,
+		);
+		codeSenseManager = 09045FBE116B700300E53295 /* Code sense */;
+		executables = (
+			09045FA5116B6FFE00E53295 /* Simple Table */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1248,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292253694;
+			PBXWorkspaceStateSaveDate = 292253694;
+		};
+		sourceControlManager = 09045FBD116B700300E53295 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

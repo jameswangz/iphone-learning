@@ -1,0 +1,127 @@
+// !$*UTF8*$!
+{
+	09BDCB4B116F643200AE5EA0 /* Cell11 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Cell11;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	09BDCB59116F645000AE5EA0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	09BDCB5A116F645000AE5EA0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	09BDCB74116F650300AE5EA0 /* Cell11ViewController.m:50 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* Cell11ViewController.m */;
+		functionName = "-tableView:numberOfRowsInSection:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 50;
+		location = Cell11;
+		modificationTime = 292513033.891714;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1D6058900D05DD3D006BFB54 /* Cell11 */ = {
+		activeExec = 0;
+		executables = (
+			09BDCB4B116F643200AE5EA0 /* Cell11 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Cell11ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1635, 963}}";
+			sepNavSelRange = "{394, 0}";
+			sepNavVisRange = "{0, 396}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Cell11ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1635, 2163}}";
+			sepNavSelRange = "{1460, 21}";
+			sepNavVisRange = "{1099, 1574}";
+			sepNavWindowFrame = "{{677, 64}, {1694, 1114}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 09BDCB4B116F643200AE5EA0 /* Cell11 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Cell11 */;
+		breakpoints = (
+			09BDCB74116F650300AE5EA0 /* Cell11ViewController.m:50 */,
+		);
+		codeSenseManager = 09BDCB5A116F645000AE5EA0 /* Code sense */;
+		executables = (
+			09BDCB4B116F643200AE5EA0 /* Cell11 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					712,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292512818;
+			PBXWorkspaceStateSaveDate = 292512818;
+		};
+		sourceControlManager = 09BDCB59116F645000AE5EA0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
