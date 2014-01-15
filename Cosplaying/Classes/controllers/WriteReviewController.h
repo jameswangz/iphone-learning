@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "SCRatingView.h"
-#import "TextViewWithPlaceholder.h";
+#import "TextViewWithPlaceholder.h"//;
 
 @interface WriteReviewController : UIViewController <SCRatingDelegate, UITextViewDelegate, UITextFieldDelegate> {
 

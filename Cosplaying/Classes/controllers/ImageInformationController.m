@@ -16,7 +16,7 @@
 #import "RatingCellView.h"
 #import "UINavigationController-Animation.h"
 #import "AnimationDefinition.h"
-#import "ASIHTTPRequest.h";
+#import "ASIHTTPRequest.h"
 
 @implementation ImageInformationController
 @synthesize reviewsView;

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>775C9DDC-F98E-4789-BD6A-C61C9F1124EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cosplaying</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>098C649D-7A89-4FAB-A877-96E7FA7B5D8A</key>
+		<string>ssh://github.com/jameswangz/iphone-learning.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cosplaying/Cosplaying.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>098C649D-7A89-4FAB-A877-96E7FA7B5D8A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/jameswangz/iphone-learning.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>098C649D-7A89-4FAB-A877-96E7FA7B5D8A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>098C649D-7A89-4FAB-A877-96E7FA7B5D8A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iphone-learning</string>
+		</dict>
+	</array>
+</dict>
+</plist>
